@@ -2,15 +2,11 @@
 
 ## Team Information
 
-### Team Name
-*Replace this with your team name*
-
+### Team Mars
 ### Team Members
-1. *Member 1 Name (GitHub Username)*
-2. *Member 2 Name (GitHub Username)*
-3. *Member 3 Name (GitHub Username)*
+1. *Nirwan Maharjan (Uami-11)*
+2. *Ugen Basnet (Lokendra72)*
 
 ### Task Division
-- **Member 1**: *Describe tasks assigned (e.g., data analysis and EDA)*
-- **Member 2**: *Describe tasks assigned (e.g., Model validation and creation)*
-- **Member 3**: *Describe tasks assigned (e.g., application development and data tasks)*
+- **Nirwan**: *Describe tasks assigned (e.g., data analysis and EDA)*
+- **Ugen**: *Describe tasks assigned (e.g., Model validation and creation)*
